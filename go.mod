@@ -1,4 +1,4 @@
-module github.com/snapclawchat/go-libp2p-rendezvous
+module github.com/kaleidra/go-libp2p-rendezvous
 
 go 1.25.7
 

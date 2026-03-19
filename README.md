@@ -16,7 +16,7 @@ This repository provides:
 ## Install
 
 ```bash
-go get github.com/snapclawchat/go-libp2p-rendezvous@latest
+go get github.com/kaleidra/go-libp2p-rendezvous@latest
 ```
 
 ## Quickstart
@@ -35,8 +35,8 @@ import (
   "log"
 
   libp2p "github.com/libp2p/go-libp2p"
-  rendezvous "github.com/snapclawchat/go-libp2p-rendezvous"
-  sqlite "github.com/snapclawchat/go-libp2p-rendezvous/db/sqlite"
+  rendezvous "github.com/kaleidra/go-libp2p-rendezvous"
+  sqlite "github.com/kaleidra/go-libp2p-rendezvous/db/sqlite"
 )
 
 func main() {

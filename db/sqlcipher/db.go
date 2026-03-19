@@ -11,7 +11,7 @@ import (
 	"os"
 	"time"
 
-	dbi "github.com/snapclawchat/go-libp2p-rendezvous/db"
+	dbi "github.com/kaleidra/go-libp2p-rendezvous/db"
 
 	_ "github.com/mutecomm/go-sqlcipher/v4"
 
